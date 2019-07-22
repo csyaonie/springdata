@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
  * @date 2019/7/19
  * @description
  */
-public class StudentDaoTest {
+public class StudentDaoImplTest {
 
     @Test
     public void query() {
